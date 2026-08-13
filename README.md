@@ -7,7 +7,16 @@ el Google Data Analytics Professional Certificate para pensar más en datos y me
 solo en código.
 
 **Con qué trabajo:**
-JavaScript, TypeScript, PHP, Python, React, React Native, Laravel, MySQL, Firebase
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 
 **Ahora mismo estoy:**
 - Construyendo un módulo de optimización de rutas con la API de Google Maps
@@ -15,7 +24,7 @@ JavaScript, TypeScript, PHP, Python, React, React Native, Laravel, MySQL, Fireba
 
 📫 mfernandezmar3@gmail.com · [LinkedIn](https://www.linkedin.com/in/mariana-fern%C3%A1ndez-9b5bb61b8/)
 
-----
+---
 
 Full Stack Developer in Costa Rica, now adding Data Analytics to my profile.
 
@@ -25,7 +34,16 @@ logistics with React, Laravel, and MySQL, while working through the Google Data
 Analytics Professional Certificate to think more in data and not just in code.
 
 **What I work with:**
-JavaScript, TypeScript, PHP, Python, React, React Native, Laravel, MySQL, Firebase
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 
 **Right now I'm:**
 - Building a route optimization module with the Google Maps API
