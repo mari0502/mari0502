@@ -1,39 +1,12 @@
-Full Stack Developer en Costa Rica, ahora sumando Data Analytics a mi perfil.
+## Full Stack Developer | Data Analytics
 
-Me gusta construir cosas que generen un impacto real: soluciones que mejoren la forma en que las personas trabajan y 
-que además impulsen resultados medibles para el negocio. Actualmente en Mercato, trabajando en
-e-commerce y logística de entregas con React, Laravel y MySQL, mientras avanzo en
-el Google Data Analytics Professional Certificate para pensar más en datos y menos
-solo en código.
+Full Stack Developer in Costa Rica, now expanding into Data Analytics.
 
-**Con qué trabajo:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![React Native](https://img.shields.io/badge/React_Native-black?logo=react)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-
-**Ahora mismo estoy:**
-- Construyendo un módulo de optimización de rutas con la API de Google Maps
-- Aprendiendo SQL avanzado y visualización de datos
-
-📫 mfernandezmar3@gmail.com · [LinkedIn](https://www.linkedin.com/in/mariana-fern%C3%A1ndez-9b5bb61b8/)
+I like building things that solve real problems, improve workflows, and move the needle for the business. Currently at Mercato, working on e-commerce and delivery logistics with React, Laravel, and MySQL, while pursuing a Specialization in Data Analytics at Grow Up Data Analytics to strengthen my skills in data analysis, visualization, and data-driven decision making.
 
 ---
 
-Full Stack Developer in Costa Rica, now adding Data Analytics to my profile.
-
-I like building things that solve real problems, improve workflows, and move 
-the needle for the business. Currently at Mercato, working on e-commerce and delivery
-logistics with React, Laravel, and MySQL, while working through the Google Data
-Analytics Professional Certificate to think more in data and not just in code.
-
-**What I work with:**
+### 🛠️ What I work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
@@ -45,8 +18,31 @@ Analytics Professional Certificate to think more in data and not just in code.
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 
-**Right now I'm:**
-- Building a route optimization module with the Google Maps API
-- Learning advanced SQL and data visualization
+---
 
-📫 mfernandezmar3@gmail.com · [LinkedIn](https://www.linkedin.com/in/mariana-fern%C3%A1ndez-9b5bb61b8/)
+### 🚀 Right now I'm
+
+- 🗺️ Building a route optimization module with the Google Maps API
+- 📊 Deepening my skills in SQL, data analysis, and data visualization
+- 🔎 Exploring how data can be used to improve products, processes, and business decisions
+
+---
+
+### 📚 Currently learning
+
+**Specialization in Data Analytics — Grow Up Data Analytics**
+
+Expanding my knowledge in:
+
+- SQL & data analysis
+- Data visualization
+- Data-driven decision making
+- Business-oriented analytics
+
+---
+
+### 📫 Let's connect
+
+📧 **Email:** mfernandezmar3@gmail.com
+
+💼 **LinkedIn:** [Mariana Fernández](https://www.linkedin.com/in/mariana-fern%C3%A1ndez-9b5bb61b8/)
