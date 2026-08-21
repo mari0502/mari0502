@@ -1,8 +1,10 @@
-## Full Stack Developer | Data Analytics
+## Full Stack Developer | Data Analytics & Applied AI
 
-Full Stack Developer in Costa Rica, now expanding into Data Analytics.
+Full Stack Developer in Costa Rica, expanding my expertise into Data Analytics and Applied AI.
 
-I like building things that solve real problems, improve workflows, and move the needle for the business. Currently at Mercato, working on e-commerce and delivery logistics with React, Laravel, and MySQL, while pursuing a Specialization in Data Analytics at Grow Up Data Analytics to strengthen my skills in data analysis, visualization, and data-driven decision making.
+I like building things that solve real problems, improve workflows, and create measurable business impact. Currently at Mercato, working on e-commerce and delivery logistics with React, Laravel, and MySQL, while pursuing a **Specialization in Data Analytics & Applied AI at Grow Up Data Analytics**.
+
+I'm interested in combining software development, data, and AI to build smarter solutions and make better data-driven decisions.
 
 ---
 
@@ -23,20 +25,23 @@ I like building things that solve real problems, improve workflows, and move the
 ### 🚀 Right now I'm
 
 - 🗺️ Building a route optimization module with the Google Maps API
-- 📊 Deepening my skills in SQL, data analysis, and data visualization
-- 🔎 Exploring how data can be used to improve products, processes, and business decisions
+- 📊 Developing my skills in SQL, data analysis, and data visualization
+- 🤖 Exploring Applied AI and how it can be integrated into real-world solutions
+- 🔎 Learning how data and AI can improve products, processes, and business decisions
 
 ---
 
 ### 📚 Currently learning
 
-**Specialization in Data Analytics — Grow Up Data Analytics**
+**Specialization in Data Analytics & Applied AI — Grow Up Data Analytics**
 
 Expanding my knowledge in:
 
-- SQL & data analysis
+- SQL & advanced data analysis
 - Data visualization
 - Data-driven decision making
+- Applied Artificial Intelligence
+- AI-powered solutions
 - Business-oriented analytics
 
 ---
