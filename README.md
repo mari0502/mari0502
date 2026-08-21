@@ -1,7 +1,7 @@
 Full Stack Developer en Costa Rica, ahora sumando Data Analytics a mi perfil.
 
-Me gusta construir cosas que se noten: features que un usuario realmente usa, y que
-además muevan una métrica de negocio. Actualmente en Mercato, trabajando en
+Me gusta construir cosas que generen un impacto real: soluciones que mejoren la forma en que las personas trabajan y 
+que además impulsen resultados medibles para el negocio. Actualmente en Mercato, trabajando en
 e-commerce y logística de entregas con React, Laravel y MySQL, mientras avanzo en
 el Google Data Analytics Professional Certificate para pensar más en datos y menos
 solo en código.
@@ -28,8 +28,8 @@ solo en código.
 
 Full Stack Developer in Costa Rica, now adding Data Analytics to my profile.
 
-I like building things that actually get used: features a user relies on, that also
-move a business metric. Currently at Mercato, working on e-commerce and delivery
+I like building things that solve real problems, improve workflows, and move 
+the needle for the business. Currently at Mercato, working on e-commerce and delivery
 logistics with React, Laravel, and MySQL, while working through the Google Data
 Analytics Professional Certificate to think more in data and not just in code.
 
